@@ -8,6 +8,8 @@
     height: 70px;
     background-color: red;
     margin: 20px auto;
+    border-radius: 20px;
+
 }
 .style{
     height: 80px;
@@ -29,22 +31,24 @@
 .logo{
     padding-top: 20px;
     padding-left: 10px;
+    float: left;
 }
 
 ul{
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding-top: 25px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 10px;
 }
+
 
 .menu{
     padding-top: 15px;
 }
 li{
     font-size: 20px;
-    color: black;
+    color: #fff;
+    display: inline;
+    margin-left: 40px;
 }
 .about1{
     border: 5px solid;
