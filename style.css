@@ -52,9 +52,21 @@ li{
 }
 .about1{
     border: 5px solid;
-    width: 250px;
+    width: 350px;
     height: 400px;
     background-color: bisque;
     align-items: center;
     color: red;
+    display: inline-block;
+    margin: 30px auto;
+    border-radius: 30px;
+
+}
+.section{
+    margin: 30px auto;
+    width: 90%;
+    height: 500px;
+   display: flex;
+   justify-content: space-around;
+
 }
