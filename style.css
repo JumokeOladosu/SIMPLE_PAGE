@@ -76,3 +76,18 @@ li{
    justify-content: space-around;
 
 }
+.footer{
+    width: 90%;
+    height: 70px;
+    background-color: red;
+    margin: 20px auto;
+    border-radius: 20px;
+    
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+    font-size: medium;
+
+}
